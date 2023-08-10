@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "wood-dyeing",
+	"id": "wood_dyeing",
 	"version": "${version}",
 	"name": "wood dyeing",
-	"description": "Finally, colorful wooden blocks !",
+	"description": "Finally, colorful wood blocks !",
 	"authors": [
 		"Luprus"
 	],
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/wood-dyeing/icon.png",
+	"icon": "assets/wood_dyeing/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -26,7 +26,7 @@
 		]
 	},
 	"mixins": [
-		"wood-dyeing.mixins.json"
+		"wood_dyeing.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.14.22",
