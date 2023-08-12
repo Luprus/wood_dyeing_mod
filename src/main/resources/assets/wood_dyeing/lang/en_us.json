@@ -1,3 +1,6 @@
 {
-  "item.wood_dyeing.fibers": "Fibers"
+  "itemgroup.wood_dyeing": "Wood Dyeing",
+  "item.wood_dyeing.fibers": "Fibers",
+  "block.wood_dyeing.red_oak_planks": "Red Oak Planks",
+  "block.wood_dyeing.white_oak_planks": "White Oak Planks"
 }

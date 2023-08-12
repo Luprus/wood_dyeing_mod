@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "wood_dyeing",
-	"version": "${version}",
+	"version": "0.1.0",
 	"name": "wood dyeing",
 	"description": "Finally, colorful wood blocks !",
 	"authors": [
@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "LGPL-3.0-only",
 	"icon": "assets/wood_dyeing/icon.png",
 	"environment": "*",
 	"entrypoints": {

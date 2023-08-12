@@ -1,4 +1,4 @@
-<img src="src/main/resources/assets/wood-dyeing/icon.png" width="128" alt="">
+<img src="src/main/resources/assets/wood_dyeing/icon.png" width="128" alt="">
 
 # Luprus' Wood Dyeing Mod
 
@@ -32,7 +32,7 @@ To clean a block, you will simply use axe to remove the layer of dye.
 ## 🛠 To-Do list for 1.0.0
 - [ ] Adding the 16 dyed oak planks blocks
 - [ ] Adding the _dye brush_ tool
-- [ ] Adding the _fibers_ item
+- [x] Adding the _fibers_ item
 - [ ] Adding the recipe for the _dye brush_
 - [ ] Adding the interactions between items and blocks
 
